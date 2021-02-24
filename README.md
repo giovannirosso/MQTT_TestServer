@@ -1,3 +1,2 @@
-# MQTT_TestServer
+Broker MQTT para testes de propósito geral utilizando protobufs
 
-BrokerMQTT de propósito geral para testes genéricos de diversos projetos

@@ -1,0 +1,3 @@
+generic_.User max_size:128
+generic_.numbers max_count:5
+generic_.numbers fixed_count:true

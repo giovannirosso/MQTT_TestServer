@@ -1,0 +1,19 @@
+syntax = "proto3";
+
+enum Test
+{
+	Enum_0 = 0;
+	Enum_1 = 1;
+	Enum_2 = 2;
+	Enum_3 = 3;
+	Enum_4 = 4;
+}
+
+message generic_
+{
+	uint32 ID = 1;
+	Test generic = 2;
+	bool verified = 3;
+	string User = 4;
+	repeated uint32 numbers = 5;
+}
